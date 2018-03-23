@@ -2,7 +2,7 @@ HIPI (Hadoop Image Processing Interface) is a library designed to provide effici
 
 For more detail about what HIPI is, see the [Main HIPI Webpage](http://hipi.cs.virginia.edu).
 
-To stay in touch with the HIPI development community join the [HIPI Users Group](https://groups.google.com/forum/#!forum/hipi-users).
+To stay in touch with the HIPI development community join the [HIPI Users Group](https://groups.google.com/forum/#!forum/hipi-users) .
 
 # Getting started
 
